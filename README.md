@@ -25,7 +25,6 @@ Il sistema offre le seguenti capacità:
 * **Gestione Profilo:** Registrazione e autenticazione utenti con tracciamento di altezza, peso attuale e peso desiderato.
 * **Monitoraggio Peso:** Storico delle variazioni di peso nel tempo con associazione temporale (data).
 * **Gestione Allenamenti:** Organizzazione degli esercizi per gruppi muscolari e gestione delle schede di allenamento personalizzate.
-* **Social Tracking:** Funzionalità per seguire altri utenti e monitorare i progressi all'interno della community.
 
 ---
 
