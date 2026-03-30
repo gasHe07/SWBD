@@ -1,0 +1,9 @@
+Per il professor Diomaiuta
+procedura per il test della web app:
+1) installare XAMMP
+2) copiare la cartella SWBD in \xampp\htdocs
+3) avviare XAMMP come amministratore
+4) startare apache2 e MySQL
+5) una volta avviati i servizi recarsi presso la pagina http://localhost/phpmyadmin/index.php?route=/server/import ed importare swbd.sql
+6) recarsi sulla pagina inziale http://localhost/SWBD/PhysiMonitor.php
+7) accedere con l'account di test--> elio1234:frankChiaglio
